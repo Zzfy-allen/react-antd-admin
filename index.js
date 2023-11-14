@@ -1,1 +1,1 @@
-cosnt a = 10
+const a = 2000
