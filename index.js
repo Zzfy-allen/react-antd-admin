@@ -1,1 +1,1 @@
-const a = 30000
+const a = 1
