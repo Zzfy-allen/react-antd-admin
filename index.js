@@ -1,3 +1,2 @@
-const a = 2000000
-const b = 100
-const c= 'wo shidev'
+const b = 10
+const c = xiaozhangceshi
