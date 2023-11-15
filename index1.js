@@ -1,1 +1,0 @@
-const a = 我吧index1该了 master
